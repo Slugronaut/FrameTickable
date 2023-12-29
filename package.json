@@ -1,0 +1,19 @@
+{
+  "name": "com.postegames.frametickable",
+  "version": "1.0.0",
+  "displayName": "PEGLIB - Frame Tickable",
+  "description": "A system for ticking object functions once per frame from a central location, thus avoiding the marshalling cost of MonoBehaviour.Update().",
+  "unity": "2022.2",
+  "keywords": [
+    "LoD"
+  ],
+  "author": {
+    "name": "Sluggy",
+    "email": "jcsluggy@gmail.com",
+    "url": "http:/postegames.com"
+  },
+  "dependencies": {
+    "com.postegames.autocreatable": "",
+    "com.postegames.playerloopinjector": ""
+  }
+}
